@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#submitBtn {
+    font-size: 2em;
+    color: black;
+    background-color: green;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#submitBtn:hover {
+    background-color: blue;
+}
+
+#submitBtn:active {
+    background-color: red;
+}
+
+#age {
+    font-size: 2em;
+    border-radius: 10px;
+}
+
+#weight {
+    font-size: 2em;
+    border-radius: 10px;
+}
+
+#height {
+    font-size: 2em;
+    border-radius: 10px;
+}
+#weightOptions {
+    font-size: 1.6em;
+    border-radius: 10px;
+    background-color: yellow;
+    color: blue;
+}
+
+#heightOptions {
+    font-size: 1.6em;
+    border-radius: 10px;
+    background-color: yellow;
+    color: blue;
+}
+
+#displayBMI {
+    padding-top: 20px;
+    font-size: 2em;
+    font-family: 'Oswald', sans-serif;
+}
+
+
