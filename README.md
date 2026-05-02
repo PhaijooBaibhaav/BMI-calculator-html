@@ -12,4 +12,9 @@ cd BMI-calculator-html
 index.html
 ```
 
+## Some screenshots
+![Screenshot with result](Assets/Screenshots/screenshot.png)
+![Screenshot with menu bar](Assets/Screenshots/screenshot1.png)
+
+
 ### Made by *Baibhav Phaijoo*.
