@@ -3,4 +3,13 @@
 ## Speciality
 - You can use different units of measurement
 
-### Made by **Baibhav Phaijoo**.
+## How to install 
+```bash
+git clone https://github.com/PhaijooBaibhaav/BMI-calculator-html.git
+
+cd BMI-calculator-html
+
+index.html
+```
+
+### Made by *Baibhav Phaijoo*.
